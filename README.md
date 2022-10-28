@@ -1,2 +1,2 @@
-# ANN
-ann study
+#ann study
+print("hello world")
